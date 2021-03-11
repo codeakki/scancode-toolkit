@@ -11,5 +11,6 @@ notes: |
     for code contributed to NetBSD Foundation.
     Its former SPDX key was BSD-2-Clause-NetBSD. This is now tracked as
     bsd-simplified aka. BSD-2-Clause.
+spdx_license_key: BSD-2-Clause-NetBSD
 text_urls:
     - http://www.netbsd.org/about/redistribution.html#default
